@@ -1,6 +1,6 @@
 import unittest
 
-import hamming
+from hamming import hamming
 
 
 class HammingTest(unittest.TestCase):
